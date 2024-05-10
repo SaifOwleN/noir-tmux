@@ -10,7 +10,7 @@ white="#aab2bf"
 green="#87875f"
 visual_grey="#3e4452"
 comment_grey="#585858"
-light_green=#5f875f
+light_green="#5f875f"
 
 set() {
 	local option=$1
